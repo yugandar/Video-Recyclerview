@@ -1,2 +1,39 @@
-# Video-Recyclerview
+﻿# Video-Recyclerview
 Application Is used to Dispaly Youtube Videos in Recyclerview Android 
+
+
+
+#Screen Shots
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
